@@ -1,16 +1,13 @@
-// Portfolio Data - Central data store
-// Update this file to modify all portfolio content
-
 export const personalInfo = {
   name: 'Nandkishor Mali',
   fullName: 'Nandkishor Sopandeo Mali',
   title: 'B.E. Computer Engineering Student | Software Engineer | Backend & Web Developer',
   tagline: 'Currently pursuing my B.E. in Computer Engineering at Matoshri College of Engineering and Research Centre, with a strong interest in software development, backend systems, databases, APIs, data structures, algorithms, cloud concepts, DevOps, and modern web technologies.',
-  location: 'Shirpur, Dist. Jalgaon, Maharashtra, India',
+  location: 'Nashik , Maharashtra, India',
   phone: '9511208577',
   email: 'nandakishormali689@gmail.com',
-  github: 'https://github.com/yourusername',
-  linkedin: 'https://linkedin.com/in/yourusername',
+  github: 'https://github.com/nandakishormali689-lang',
+  linkedin: 'www.linkedin.com/in/nandkishor-mali-b61604350',
 };
 
 export const aboutMe = {
@@ -18,7 +15,7 @@ export const aboutMe = {
   focus: 'B.E. Computer Engineering Student specializing in backend development, Java, C++, Python, JavaScript, HTML5/CSS3/Bootstrap, APIs, SQL databases, Cloud, Networking, DevOps & Git/GitHub.',
   stats: [
     { value: 'B.E.', label: 'Computer Engineering' },
-    { value: '86%', label: 'Diploma Score (2026)' },
+    { value: '87%', label: 'Diploma Score (2026)' },
     { value: '2+', label: 'Practical Internships' },
     { value: '6+', label: 'Featured Projects' },
   ],
@@ -174,7 +171,7 @@ export const projects = [
     title: 'GeoChat Application',
     description: 'A location-based messaging application that allows users to communicate with nearby people, share locations, and discover local communities in real-time.',
     technologies: ['Python', 'Web Development', 'SQL', 'REST API'],
-    github: 'https://github.com/yourusername/geochat',
+    github: 'https://github.com/nandakishormali689-lang/geochat',
     demo: '#',
     image: null,
   },
