@@ -7,7 +7,7 @@ export const personalInfo = {
   phone: '9511208577',
   email: 'nandakishormali689@gmail.com',
   github: 'https://github.com/nandakishormali689-lang',
-  linkedin: 'www.linkedin.com/in/nandkishor-mali-b61604350',
+  linkedin: 'www.linkedin.com/in/nandkishor-mali',
 };
 
 export const aboutMe = {
